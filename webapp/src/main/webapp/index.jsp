@@ -1,3 +1,3 @@
 Hello, Welcome to great leaders from Devops academy
 thank you
-thank you all
+sep_to_stage
